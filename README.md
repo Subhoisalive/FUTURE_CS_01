@@ -6,7 +6,6 @@
 
 This repository documents my first task during the Cyber Security Internship at **FutureTrix**. Task 1 involved understanding fundamental network security concepts, setting up a secure virtual network environment, enabling and configuring firewalls, and analyzing traffic using Wireshark.
 
----
 
 ## 🎯 Objectives
 
@@ -17,7 +16,6 @@ This repository documents my first task during the Cyber Security Internship at 
 - Capture and analyze live network traffic using Wireshark.
 - Automate IP blocking using scripts.
 
----
 
 ## 🧰 Tools Used
 
@@ -27,7 +25,6 @@ This repository documents my first task during the Cyber Security Internship at 
 - 🐧 **Ubuntu & Kali Linux (VMs)**
 - 📜 **Automation Scripts (Batch)**
 
----
 
 ## 🧪 Lab Setup Steps
 
@@ -39,7 +36,6 @@ This repository documents my first task during the Cyber Security Internship at 
 6. Captured network packets using Wireshark and analyzed HTTP, DNS, etc.
 7. Automated blocking of malicious IPs using external blocklists.
 
----
 
 ## 🧠 Key Concepts Covered
 
@@ -51,7 +47,6 @@ This repository documents my first task during the Cyber Security Internship at 
 | Encryption (AES, RSA)    | Protect data during transmission                         |
 | Secure Network Configs   | Disable ports, strong passwords, secure protocols        |
 
----
 
 ## 📸 Screenshots
 
@@ -61,7 +56,4 @@ This repository documents my first task during the Cyber Security Internship at 
 
 (See `Screenshots/` folder)
 
----
-
-## 📂 Repository Structure
 
